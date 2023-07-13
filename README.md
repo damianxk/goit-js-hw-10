@@ -1,6 +1,6 @@
-# Damian Kowalczyk goit-js-hw-09
+# Damian Kowalczyk goit-js-hw-10
 
-https://damianxk.github.io/goit-js-hw-09/
+https://damianxk.github.io/goit-js-hw-10/
 
 ---
 
